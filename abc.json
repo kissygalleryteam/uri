@@ -1,0 +1,17 @@
+{
+    "name": "uri",
+    "comName":"Uri",
+    "version": "1.0",
+    "desc": "",
+    "tag":"uri,url",
+    "githubName":"kissygalleryteam",
+    "author": {
+        "name": "chengyu",
+        "email": "chengyu@taobao.com",
+        "page": ""
+    },
+	"flexComboPort":"8081",
+	"reserveServerPort":"8080",
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
